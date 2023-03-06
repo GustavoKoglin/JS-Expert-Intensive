@@ -5,7 +5,7 @@ Antes de mais nada, utilize os comandos para controlar a página.
     'scroll-down': '✊️' - Rolar a página para baixo.
     'scroll-up': '🖐' - Rolar a página para cima.
     'click': '🤏' - Controle de click.
-    'rock': '🤘' - Este controlole não afeta a página.
+    'rock': '🤘' - Este controle não afeta a página.
 
 Seja bem vindo(a) à sétima Semana Javascript Expert. Este é o código inicial para iniciar nossa jornada.
 
