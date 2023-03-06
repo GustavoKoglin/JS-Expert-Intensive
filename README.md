@@ -1,6 +1,7 @@
 # JSExpertMax Gesture Controller - Semana JS Expert 7.0
 
 Antes de mais nada, utilize os comandos para controlar a página.
+
     Site: <https://gustavokoglin.github.io/JS-Expert-Intensive/classes/class04/pages/titles/>
 
     'scroll-down': '✊️' - Rolar a página para baixo.
